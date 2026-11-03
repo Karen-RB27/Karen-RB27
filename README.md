@@ -1,21 +1,21 @@
-<!-- ============================================= -->
-<!--          PERFIL GITHUB | KAREN ROCHA         -->
-<!-- ============================================= -->
+
+<!-- ============================================== -->
+<!--       KAREN ROCHA | PERFIL TECH FUTURISTA      -->
+<!-- ============================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F1A,45:312E81,100:8B5CF6&text=Karen%20Rocha&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20DADOS%20%7C%20IA%20%7C%20INOVACAO&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner Karen Rocha" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Karen+%F0%9F%92%9C;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+%7C+Dados+%7C+IA;Aprendizado+cont%C3%ADnuo+e+evolu%C3%A7%C3%A3o" alt="Texto animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:070B18,50:312E81,100:7C3AED&text=KAREN%20ROCHA&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=TECNOLOGIA%20%7C%20DESENVOLVIMENTO%20%7C%20INOVACAO&descAlignY=68&descSize=15&animation=fadeIn" alt="Karen Rocha - Perfil profissional" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Desenvolvimento-18181B?style=flat-square&logo=github&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Dados-18181B?style=flat-square&logo=postgresql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-18181B?style=flat-square&logo=googlebard&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Engenharia%20de%20Software-18181B?style=flat-square&logo=codemagic&logoColor=C4B5FD" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=780&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Karen+%F0%9F%92%9C;Desenvolvimento+Full+Stack;Dados+e+Engenharia+de+Software;Intelig%C3%AAncia+Artificial+e+Automa%C3%A7%C3%B5es;Tecnologia+em+constante+evolu%C3%A7%C3%A3o" alt="Apresentação animada" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOCO-FULL_STACK-8B5CF6?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/INTERESSE-DADOS-22D3EE?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/EXPLORANDO-IA-8B5CF6?style=for-the-badge&labelColor=111827" />
 
 <br><br>
 
@@ -23,15 +23,142 @@
 
 ---
 
-## ✨ Sobre mim
+## ✦ Quem sou eu?
 
-Sou **Karen Rocha Brigagão**, estudante de **Sistemas de Informação na UNIDESC**, com interesse em tecnologia, desenvolvimento de software, dados e inovação.
+Sou **Karen Rocha Brigagão**, graduanda em **Sistemas de Informação pela UNIDESC**.
 
-Estou construindo minha trajetória com foco em **Desenvolvimento Full Stack**, **Engenharia de Software**, **Análise de Dados**, **Inteligência Artificial** e **Automações**, buscando evoluir continuamente e transformar conhecimento em soluções digitais.
+Minha trajetória é voltada ao desenvolvimento de software e à tecnologia, com conhecimentos em programação, aplicações web e mobile e bancos de dados.
 
-```txt
-📍 Brasília - DF, Brasil
-🎓 Sistemas de Informação
-💡 Foco: Desenvolvimento de Software
-📊 Áreas de interesse: Full Stack | Dados | IA | Engenharia de Software
-🚀 Objetivo: evoluir tecnicamente e construir soluções úteis
+Tenho como foco profissional o **Desenvolvimento Full Stack**, com interesse em **Engenharia de Software, Análise de Dados, Inteligência Artificial e Automações**.
+
+> 💡 Meu propósito é transformar conhecimento em soluções tecnológicas inteligentes, funcionais e inovadoras.
+
+---
+
+## ⚡ Minhas áreas de interesse
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento Full Stack
+
+Aplicações web e mobile, interfaces, APIs e integração de sistemas.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Dados e Analytics
+
+SQL, modelagem de dados, organização e análise de informações.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Inteligência Artificial
+
+Exploração de IA, automações e soluções inteligentes.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Engenharia de Software
+
+Arquitetura, qualidade de código, boas práticas e evolução de sistemas.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Meu universo tecnológico
+
+<div align="center">
+
+**LINGUAGENS**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css&theme=dark&perline=6" alt="Linguagens" />
+
+<br><br>
+
+**FRAMEWORKS E DESENVOLVIMENTO**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,dotnet,firebase&theme=dark&perline=3" alt="Frameworks e desenvolvimento" />
+
+<br>
+
+<sub>React Native • Expo • ASP.NET Core</sub>
+
+<br><br>
+
+**DADOS E FERRAMENTAS**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,visualstudio&theme=dark&perline=5" alt="Dados e ferramentas" />
+
+<br>
+
+<sub>SQL • Firestore • Entity Framework</sub>
+
+</div>
+
+---
+
+## 🚀 Em evolução constante
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=35&lines=Aprender+%3E+Praticar+%3E+Evoluir;Explorar+novas+tecnologias;Construir+solu%C3%A7%C3%B5es+com+prop%C3%B3sito" alt="Trilha de evolução" />
+
+</div>
+
+<details>
+<summary><b>▸ Explorar minha trilha de aprendizado</b></summary>
+
+<br>
+
+| Área | Objetivos de aprendizado |
+|:---|:---|
+| 💻 Full Stack | React, Next.js, Node.js e APIs |
+| 📊 Dados | SQL, Python e Power BI |
+| 🤖 Inteligência Artificial | IA aplicada e automações |
+| ⚙️ Engenharia | Clean Code, arquitetura e testes |
+| ☁️ Infraestrutura | Cloud, Git e DevOps |
+
+</details>
+
+---
+
+## ◈ Conexões profissionais
+
+<div align="center">
+
+**Tecnologia • Conhecimento • Inovação**
+
+<br>
+
+Aberta a conexões, troca de experiências e oportunidades na área de tecnologia.
+
+<br><br>
+
+<a href="https://github.com/Karen-RB27">
+<img src="https://img.shields.io/badge/GITHUB-CONECTAR-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Meu GitHub" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Karen-RB27&label=VISITAS+AO+PERFIL&color=8B5CF6&style=flat-square" alt="Visualizações" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:070B18,50:312E81,100:7C3AED" width="100%" alt="Rodapé" />
+
+</div>
