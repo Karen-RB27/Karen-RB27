@@ -1,73 +1,65 @@
 
-<!-- PERFIL GITHUB | KAREN ROCHA BRIGAGÃO -->
-<!-- IDENTIDADE: PURPLE TECH / FULL STACK / DATA / AI -->
+<!-- ====================================================== -->
+<!--             KAREN ROCHA | GITHUB PROFILE              -->
+<!--         SOFTWARE • DATA • AI • ENGINEERING            -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,45:312060,100:8B5CF6&text=Karen%20Rocha&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=FULL%20STACK%20%7C%20DATA%20%7C%20AI%20%26%20AUTOMATION&descAlignY=61&descSize=17&animation=fadeIn" alt="Banner Karen Rocha" />
-
-<h2>Olá, eu sou a Karen! 👩‍💻💜</h2>
-
-<strong>Desenvolvimento Full Stack • Dados • Engenharia de Software • Inteligência Artificial</strong>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Full+Stack+%7C+Dados+%7C+Engenharia+de+Software;Explorando+IA+e+Automacoes;Transformando+ideias+em+solucoes+digitais" alt="Apresentação animada" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,45:312E81,100:8B5CF6&text=KAREN%20ROCHA&fontColor=FFFFFF&fontSize=55&fontAlignY=39&desc=DEVELOPMENT%20%7C%20DATA%20%7C%20INNOVATION&descAlignY=61&descSize=17&animation=fadeIn" alt="Karen Rocha" />
 
 <br>
 
-<a href="https://github.com/Karen-RB27">
-<img src="https://img.shields.io/badge/GitHub-Karen--RB27-17153B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=780&lines=Hello%2C+World!+I'm+Karen+%F0%9F%92%9C;Software+Development+%26+Engineering;Full+Stack+%7C+Data+%7C+Artificial+Intelligence;Learning.+Building.+Evolving." alt="Apresentação animada" />
 
-<a href="https://github.com/Karen-RB27?tab=repositories">
-<img src="https://img.shields.io/badge/MEUS_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br>
+
+<img src="https://img.shields.io/badge/Software_Development-181825?style=flat-square&logo=github&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Data_%26_Analytics-181825?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI_%26_Automation-181825?style=flat-square&logo=openai&logoColor=A78BFA" />
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Karen-RB27&label=VISITAS+AO+PERFIL&color=7C3AED&style=for-the-badge" alt="Visitas ao perfil" />
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## `01.` Sobre mim
 
-Sou **Karen Rocha Brigagão**, estudante de **Sistemas de Informação na UNIDESC**, apaixonada por tecnologia, desenvolvimento de software, dados e inovação.
+Olá! Sou **Karen Rocha Brigagão**, estudante de **Sistemas de Informação na UNIDESC**, com interesse em desenvolvimento de software, análise de dados e tecnologias emergentes.
 
-Minha trajetória na tecnologia envolve o desenvolvimento de aplicações web e mobile, projetos acadêmicos, criação de interfaces e utilização de bancos de dados.
+Minha trajetória na tecnologia envolve conhecimentos em desenvolvimento web e mobile, programação, bancos de dados e suporte em TI.
 
-Busco ampliar meus conhecimentos em **Desenvolvimento Full Stack, Engenharia de Software, Análise de Dados, Inteligência Artificial e Automações**, explorando tecnologias e boas práticas que contribuam para a criação de soluções digitais eficientes e intuitivas.
+Busco construir uma carreira voltada ao **Desenvolvimento Full Stack e à Engenharia de Software**, ampliando também meus conhecimentos em **Dados, Inteligência Artificial e Automações**.
 
-Meu objetivo é transformar conhecimento técnico em aplicações que resolvam problemas reais e gerem valor para pessoas e organizações.
+Acredito que desenvolver software vai além de escrever código: envolve compreender problemas, estruturar soluções e criar experiências que realmente façam a diferença.
 
-- 🎓 Graduanda em **Sistemas de Informação — UNIDESC**
-- 💻 Desenvolvimento de aplicações **Web e Mobile**
-- 📊 Interesse em **SQL, bancos de dados e análise de dados**
-- 🏗️ Interesse em **Engenharia e Arquitetura de Software**
-- 🤖 Explorando **Inteligência Artificial e Automações**
-- 🚀 Foco em evolução técnica e projetos práticos
-- 📍 Brasília — DF, Brasil
+```text
+> Localização:    Brasília - DF, Brasil
+> Formação:       Sistemas de Informação
+> Foco:           Desenvolvimento de Software
+> Interesses:     Full Stack | Dados | IA
+> Mentalidade:    Aprendizado e evolução contínua
+```
 
 ---
 
-## 🎯 Minhas áreas de interesse
+## `02.` Áreas de atuação e interesse
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Full Stack
+### `</>` Full Stack Development
 
-Desenvolvimento de aplicações, interfaces responsivas, APIs e integração entre front-end, back-end e bancos de dados.
+Desenvolvimento de aplicações web e mobile, interfaces, integração de sistemas e comunicação com bancos de dados.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Dados e Analytics
+### `#` Data & Analytics
 
-Exploração de SQL, modelagem de dados, consultas, análise de informações e construção de dashboards.
+SQL, organização de dados, consultas, modelagem e exploração de ferramentas para análise de informações.
 
 </td>
 </tr>
@@ -75,16 +67,16 @@ Exploração de SQL, modelagem de dados, consultas, análise de informações e 
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 IA e Automações
+### `⚙` Software Engineering
 
-Interesse em inteligência artificial, automação de processos e integração de tecnologias inteligentes em aplicações.
+Interesse em arquitetura de software, organização de código, boas práticas, testes e qualidade de aplicações.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Engenharia de Software
+### `✦` AI & Automation
 
-Estudo de arquitetura, organização de sistemas, qualidade de código, testes e boas práticas de desenvolvimento.
+Exploração de inteligência artificial, automação de processos e tecnologias inteligentes aplicadas a soluções digitais.
 
 </td>
 </tr>
@@ -92,19 +84,19 @@ Estudo de arquitetura, organização de sistemas, qualidade de código, testes e
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## `03.` Tech Stack
 
 <div align="center">
 
-### Linguagens
+### Linguagens e fundamentos
 
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css&perline=6" alt="Java, C Sharp, JavaScript, TypeScript, HTML e CSS" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css&theme=dark&perline=6" alt="Java, C#, JavaScript, TypeScript, HTML e CSS" />
 
 <br>
 
 ### Desenvolvimento e frameworks
 
-<img src="https://skillicons.dev/icons?i=react,dotnet,androidstudio,visualstudio,vscode&perline=5" alt="React, .NET e ferramentas de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=react,dotnet,firebase&theme=dark&perline=3" alt="React, .NET e Firebase" />
 
 <br>
 
@@ -112,163 +104,113 @@ Estudo de arquitetura, organização de sistemas, qualidade de código, testes e
 
 <br>
 
-### Banco de dados e serviços
+### Dados e ferramentas
 
-<img src="https://skillicons.dev/icons?i=firebase,sqlite&perline=2" alt="Firebase e SQLite" />
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,visualstudio&theme=dark&perline=5" alt="SQLite, Git, GitHub, VS Code e Visual Studio" />
 
 <br>
 
 **SQL • Firestore • Entity Framework**
 
-<br>
-
-### Versionamento e produtividade
-
-<img src="https://skillicons.dev/icons?i=git,github,figma&perline=3" alt="Git, GitHub e Figma" />
-
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## `04.` Professional Mindset
 
 <div align="center">
 
-<a href="https://github.com/Karen-RB27/POKEDEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=POKEDEX&theme=tokyonight&hide_border=true" alt="Projeto Pokédex" />
-</a>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<a href="https://github.com/Karen-RB27/Agenda-de-Reservas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=Agenda-de-Reservas&theme=tokyonight&hide_border=true" alt="Agenda de Reservas" />
-</a>
+**01 — Learn**
 
-<a href="https://github.com/Karen-RB27/Biscoito-da-Sorte-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=Biscoito-da-Sorte-&theme=tokyonight&hide_border=true" alt="Biscoito da Sorte" />
-</a>
+Aprender continuamente e explorar novas possibilidades.
 
-<a href="https://github.com/Karen-RB27/ACADEMIA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=ACADEMIA&theme=tokyonight&hide_border=true" alt="Sistema de Academia" />
-</a>
+</td>
+<td align="center" width="33%">
+
+**02 — Build**
+
+Transformar conhecimentos em soluções e experiências.
+
+</td>
+<td align="center" width="33%">
+
+**03 — Evolve**
+
+Evoluir com boas práticas, colaboração e desafios.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 📱 Pokédex — Aplicativo Mobile
-
-Aplicação desenvolvida com **React Native, Expo e TypeScript**, utilizando a PokeAPI e o Firebase Firestore.
-
-Funcionalidades documentadas:
-- Busca de Pokémon por nome ou ID
-- Visualização de detalhes
-- Gerenciamento de favoritos
-- Personalização de apelidos
-
-[🔗 Ver repositório](https://github.com/Karen-RB27/POKEDEX)
-
-### 📅 Agenda de Reservas — Sistema Web
-
-Projeto acadêmico voltado ao gerenciamento de reservas de um salão de festas.
-
-**Tecnologias:** C#, ASP.NET Core, Entity Framework e SQLite.
-
-[🔗 Ver repositório](https://github.com/Karen-RB27/Agenda-de-Reservas)
-
-### 🥠 Biscoito da Sorte — React Native
-
-Aplicativo de frases motivacionais com seleção aleatória e controle de tempo utilizando AsyncStorage.
-
-**Tecnologias:** React Native, Expo, TypeScript e AsyncStorage.
-
-[🔗 Ver repositório](https://github.com/Karen-RB27/Biscoito-da-Sorte-)
-
-### 🏋️ Java Fit — Sistema de Academia
-
-Projeto desenvolvido em Java, com interface gráfica voltada à organização de informações de uma academia.
-
-**Tecnologias:** Java e interface gráfica desktop.
-
-[🔗 Ver repositório](https://github.com/Karen-RB27/ACADEMIA)
-
 ---
 
-## 📚 Minha evolução na tecnologia
+## `05.` Em constante evolução
 
 <details>
-<summary><b>✨ Clique aqui para conhecer minha trilha de aprendizado</b></summary>
+<summary><b>💜 Explore minha trilha de desenvolvimento</b></summary>
 
 <br>
 
-### 💻 Desenvolvimento Full Stack
-- Aprofundar conhecimentos em React e Next.js
-- Estudar Node.js e desenvolvimento de APIs
-- Explorar arquitetura de aplicações e testes
+**Desenvolvimento Full Stack**
 
-### 📊 Dados e Inteligência Analítica
-- Aprimorar SQL e modelagem de bancos de dados
-- Estudar Python aplicado à análise de dados
-- Explorar Power BI e visualização de informações
+- Arquitetura de aplicações web
+- React, Next.js e desenvolvimento de interfaces
+- Back-end, APIs e integração de serviços
 
-### 🤖 Inteligência Artificial
-- Conhecer fundamentos de Machine Learning
-- Explorar automações e integrações com IA
-- Aplicar recursos inteligentes em projetos práticos
+**Dados e Inteligência Analítica**
 
-### 🏗️ Engenharia de Software
-- Estudar padrões de projeto e Clean Code
-- Aprimorar Git, testes e documentação
-- Conhecer fundamentos de Cloud e DevOps
+- SQL e modelagem de bancos de dados
+- Python aplicado à análise de dados
+- Visualização de dados e dashboards
+
+**Engenharia de Software**
+
+- Clean Code e boas práticas
+- Testes e qualidade de software
+- Padrões de projeto e versionamento
+
+**Inteligência Artificial e Automações**
+
+- Fundamentos de Machine Learning
+- Integração de ferramentas de IA
+- Automações e soluções inteligentes
 
 </details>
 
 ---
 
-## 📈 Minha atividade no GitHub
+## `06.` Let's Connect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karen-RB27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+<p>
+Tecnologia, aprendizado e inovação fazem parte da minha jornada.
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-RB27&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens utilizadas nos repositórios" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Karen-RB27&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-</div>
-
-### 📊 Gráfico de contribuições
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karen-RB27&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
-
-</div>
-
----
-
-## 🌐 Vamos nos conectar?
-
-<div align="center">
-
-Acredito que a tecnologia é uma ferramenta para transformar ideias em soluções.
-
-Estou sempre buscando novos conhecimentos, experiências e oportunidades de colaboração em projetos de tecnologia.
-
-<br>
+<p>
+Aberta a conexões profissionais, troca de conhecimentos e oportunidades de desenvolvimento.
+</p>
 
 <a href="https://github.com/Karen-RB27">
-<img src="https://img.shields.io/badge/GitHub-Visitar_perfil-17153B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Karen-RB27?tab=repositories">
-<img src="https://img.shields.io/badge/Explorar_repositorios-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Karen--RB27-181825?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Karen Rocha" />
 </a>
 
 <br><br>
 
-<i>Transformando aprendizado em tecnologia, código e novas possibilidades.</i>
+<img src="https://komarev.com/ghpvc/?username=Karen-RB27&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Visualizações do perfil" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1020,45:312060,100:8B5CF6" alt="Rodapé" />
+<sub>Code. Curiosity. Continuous Evolution.</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090F,45:312E81,100:8B5CF6" alt="Rodapé" />
 
 </div>
