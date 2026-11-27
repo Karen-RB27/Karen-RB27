@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/karen-rocha-716aa8302">
 <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://portfolio-karen-omega.vercel.app">
 <img src="https://img.shields.io/badge/Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -27,11 +28,29 @@ Tenho interesse em desenvolvimento de software, dados e inteligência artificial
 
 ## Tecnologias e ferramentas
 
-<div align="center">
+### Linguagens de programação
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,postgresql,mysql,mongodb,git,github,docker,vscode,anaconda&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Linguagens de programação"/>
 
-</div>
+### Desenvolvimento Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Front-end"/>
+
+### Desenvolvimento Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Back-end"/>
+
+### Bancos de dados
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Bancos de dados"/>
+
+### Versionamento
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Versionamento"/>
+
+### Ferramentas de desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=docker,vscode,anaconda&theme=dark" alt="Ferramentas de desenvolvimento"/>
 
 ## Projetos em destaque
 
