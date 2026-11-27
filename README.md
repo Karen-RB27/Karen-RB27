@@ -1,183 +1,279 @@
-<!-- ===================================================== -->
-<!--                  KAREN ROCHA                          -->
-<!--              GITHUB PROFILE README                    -->
-<!-- ===================================================== -->
+
+<!-- ====================================================== -->
+<!--               KAREN ROCHA BRIGAGÃO                     -->
+<!--                GITHUB PROFILE README                   -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F1A,50:7F1D1D,100:DC2626&text=Karen%20Rocha&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20DADOS%20%7C%20IA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=62&descSize=14&animation=fadeIn" alt="Banner Karen Rocha" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,50:7F1D1D,100:DC2626&text=Karen%20Rocha&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Software%20Development%20%E2%80%A2%20Data%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=60&descSize=15&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&height=45&lines=Hello%2C+World!+I'm+Karen+Rocha;Information+Systems+Student;Full+Stack+Development;Data+%26+Artificial+Intelligence;Learning.+Building.+Evolving." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=F87171&center=true&vCenter=true&width=780&height=50&lines=Ol%C3%A1%2C+eu+sou+a+Karen+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+Full+Stack+%7C+Dados+%7C+IA;Transformando+conhecimento+em+solu%C3%A7%C3%B5es;Tecnologia%2C+inova%C3%A7%C3%A3o+e+evolu%C3%A7%C3%A3o" alt="Apresentação animada" />
+<a href="https://www.linkedin.com/in/karen-rocha-716aa8302">
+<img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfolio-karen-omega.vercel.app">
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Karen-RB27">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Desenvolvimento-18181B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Desenvolvimento" />
-<img src="https://img.shields.io/badge/Dados-18181B?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="Dados" />
-<img src="https://img.shields.io/badge/IA-18181B?style=for-the-badge&logoColor=F87171" alt="Inteligência Artificial" />
-<img src="https://img.shields.io/badge/Engenharia-18181B?style=for-the-badge&logoColor=FCA5A5" alt="Engenharia de Software" />
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-18181B?style=for-the-badge&logoColor=FB7185" alt="Automações" />
-
-<br><br>
-
-<i>✨ Tecnologia, criatividade e conhecimento para transformar ideias em soluções.</i>
+<img src="https://komarev.com/ghpvc/?username=Karen-RB27&label=PROFILE+VIEWS&color=B91C1C&style=flat-square" />
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 01. Sobre mim | About me
 
-Olá! Eu sou **Karen Rocha Brigagão**, graduanda em **Sistemas de Informação na UNIDESC**.
+Sou **Karen Rocha Brigagão**, graduanda em **Sistemas de Informação pela UNIDESC**, apaixonada por tecnologia, desenvolvimento de software e inovação.
 
-Tenho interesse em tecnologia, desenvolvimento de software e criação de soluções digitais.
+Estou construindo minha trajetória profissional com foco em desenvolvimento Full Stack, explorando diferentes áreas da tecnologia e aplicando meus conhecimentos na construção de soluções digitais.
 
-Atualmente, venho construindo minha trajetória com foco em **Desenvolvimento Full Stack**, explorando também **Engenharia de Software, Dados, Inteligência Artificial e Automações**.
+Tenho interesse especial em Engenharia de Software, Ciência de Dados, Inteligência Artificial e automação de processos.
 
-Meu objetivo é evoluir continuamente, transformar conhecimento em projetos reais e desenvolver soluções que sejam **úteis, eficientes e inovadoras**.
+Meu propósito é transformar conhecimento em soluções que gerem valor, enquanto evoluo técnica e profissionalmente.
 
-```text
-📍 Brasília - DF, Brasil
-🎓 Sistemas de Informação
-💻 Foco: Desenvolvimento Full Stack
-📊 Interesses: Dados • IA • Engenharia de Software
-⚙️ Também estudo: Automação • APIs • Bancos de Dados
-🚀 Objetivo: aprender, construir e evoluir
+```yaml
+name: Karen Rocha Brigagão
+location: Brasília, DF - Brasil
+education: Sistemas de Informação | UNIDESC
+
+main_focus:
+  - Full Stack Development
+  - Software Engineering
+
+interests:
+  - Data Science
+  - Artificial Intelligence
+  - Automation
+  - API Development
+  - Database Management
+
+mindset: Learning, Building and Evolving
 ```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 02. Stack tecnológica | Tech Stack
 
 <div align="center">
 
-### 💻 Desenvolvimento
+### Linguagens de programação
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs" alt="Tecnologias de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
 
-<br><br>
+### Front-end
 
-### 🗄️ Dados & Bancos de Dados
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Tecnologias de dados" />
+### Back-end
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,java,python&theme=dark" />
 
-### ⚙️ Ferramentas
+### Bancos de dados
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda" alt="Ferramentas de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" />
+
+### Versionamento & ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 03. Áreas de interesse | Expertise & Interests
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Full_Stack_Development-18181B?style=for-the-badge&logo=react&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/Software_Engineering-18181B?style=for-the-badge&logo=git&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/Data_Science-18181B?style=for-the-badge&logo=python&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-18181B?style=for-the-badge&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/Automation-18181B?style=for-the-badge&logo=githubactions&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/Databases-18181B?style=for-the-badge&logo=postgresql&logoColor=F87171" />
+
+<img src="https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge&logo=postman&logoColor=F87171" />
+
+</div>
+
+---
+
+## 04. Projetos em destaque | Featured Projects
+
+Projetos acadêmicos e pessoais desenvolvidos para aplicar conhecimentos, explorar tecnologias e solucionar problemas.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📅 Agenda de Reservas</h3>
+
+Sistema voltado ao gerenciamento e organização de reservas.
 
 <a href="https://github.com/Karen-RB27/Agenda-de-Reservas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=Agenda-de-Reservas&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D" />
+<img src="https://img.shields.io/badge/Ver_Projeto-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Karen-RB27/POKedex">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=POKedex&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D" />
-</a>
+</td>
+<td width="50%" valign="top">
+
+<h3>💰 CDC Finanças</h3>
+
+Projeto voltado à organização e gestão financeira.
 
 <a href="https://github.com/Karen-RB27/cdc-financas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=cdc-financas&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D" />
+<img src="https://img.shields.io/badge/Ver_Projeto-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎮 Pokédex</h3>
+
+Aplicação inspirada no universo Pokémon para exploração de informações e desenvolvimento de interfaces.
+
+<a href="https://github.com/Karen-RB27/POKedex">
+<img src="https://img.shields.io/badge/Ver_Projeto-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 Portfólio Pessoal</h3>
+
+Espaço digital dedicado à apresentação da minha trajetória, habilidades e projetos.
 
 <a href="https://github.com/Karen-RB27/portfolio-karen">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karen-RB27&repo=portfolio-karen&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D" />
-</a>
-
-</div>
-
----
-
-## 📂 Outros projetos
-
-| Projeto | Descrição |
-|---|---|
-| 🏋️ **ACADEMIA** | Projeto relacionado ao desenvolvimento de uma solução para academia |
-| 🎲 **Biscoito-da-Sorte** | Aplicação interativa de frases/mensagens |
-| 🌐 **Portfolio-OAT** | Projeto de portfólio |
-| 🌐 **portfolio-BASE** | Projeto base de portfólio |
-| 💰 **cdc-financas** | Projeto relacionado a finanças |
-| 📅 **Agenda-de-Reservas** | Sistema para gerenciamento de reservas |
-| 🧪 **POKedex** | Projeto baseado na Pokédex |
-| 💻 **portfolio-karen** | Portfólio pessoal |
-
-> 💡 Este perfil reúne projetos acadêmicos, pessoais e experimentos utilizados para colocar conhecimento em prática.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karen-RB27&show_icons=true&theme=dark&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-RB27&layout=compact&theme=dark&title_color=EF4444&text_color=E5E7EB&bg_color=0B0F1A&border_color=7F1D1D&langs_count=8" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karen-RB27&theme=dark&background=0B0F1A&border=7F1D1D&ring=DC2626&fire=EF4444&currStreakLabel=F87171&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/Karen-RB27">
-<img src="https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/karen-rocha-716aa8302">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://portfolio-karen-omega.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=EF4444" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Acessar-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏋️ Academia</h3>
+
+Projeto relacionado ao desenvolvimento de soluções para o segmento fitness.
+
+<a href="https://github.com/Karen-RB27/ACADEMIA">
+<img src="https://img.shields.io/badge/Ver_Projeto-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🥠 Biscoito da Sorte</h3>
+
+Aplicação interativa para apresentação de frases e mensagens.
+
+<a href="https://github.com/Karen-RB27/Biscoito-da-Sorte">
+<img src="https://img.shields.io/badge/Ver_Projeto-B91C1C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Karen-RB27?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar_todos_os_reposit%C3%B3rios-18181B?style=for-the-badge&logo=github&logoColor=EF4444" />
 </a>
 
 </div>
 
 ---
 
+## 05. GitHub Analytics
+
 <div align="center">
 
-### ❤️ Em constante evolução
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karen-RB27&show_icons=true&hide_border=true&title_color=F87171&icon_color=EF4444&text_color=E5E7EB&bg_color=0D1117&rank_icon=github&include_all_commits=true" />
 
-<sub>
-Aprendendo todos os dias, explorando novas tecnologias
-e construindo soluções que transformam ideias em realidade.
-</sub>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-RB27&layout=compact&hide_border=true&title_color=F87171&text_color=E5E7EB&bg_color=0D1117&langs_count=8" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Karen-RB27&label=VISITAS%20AO%20PERFIL&color=DC2626&style=flat-square" alt="Contador de visitas" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DC2626,50:7F1D1D,100:0B0F1A&section=footer" alt="Rodapé" />
+<img width="85%" src="https://streak-stats.demolab.com?user=Karen-RB27&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=EF4444&currStreakLabel=F87171&sideLabels=E5E7EB&dates=9CA3AF" />
 
 </div>
 
-<!-- ===================================================== -->
-<!--                 KAREN ROCHA | 2026                    -->
-<!-- ===================================================== -->
+---
+
+## 06. Atividade | Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karen-RB27&bg_color=0D1117&color=F87171&line=DC2626&point=FFFFFF&area=true&area_color=7F1D1D&hide_border=true&custom_title=Development%20Activity" />
+
+</div>
+
+---
+
+## 07. Desenvolvimento contínuo | Current Journey
+
+- 🎓 Graduação em Sistemas de Informação.
+- 💻 Desenvolvimento de aplicações Full Stack.
+- 🧠 Estudos em Inteligência Artificial.
+- 📊 Exploração de dados e bancos de dados.
+- ⚙️ Desenvolvimento de APIs e automações.
+- 🚀 Construção de projetos para evolução profissional.
+- 🤝 Interesse em colaboração e oportunidades na área de tecnologia.
+
+---
+
+## 08. Vamos nos conectar? | Let's Connect
+
+<div align="center">
+
+Tecnologia, conhecimento e colaboração são caminhos para construir grandes soluções.
+
+Estou aberta a novas conexões, experiências, aprendizados e oportunidades profissionais.
+
+<br>
+
+<a href="https://www.linkedin.com/in/karen-rocha-716aa8302">
+<img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-karen-omega.vercel.app">
+<img src="https://img.shields.io/badge/Conhe%C3%A7a_meu_Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>"Tecnologia não é apenas sobre escrever código, mas sobre transformar ideias em possibilidades."</i>
+
+<br><br>
+
+<sub>DESIGNED WITH PURPOSE • BUILT WITH KNOWLEDGE • ALWAYS EVOLVING</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:DC2626,50:7F1D1D,100:09090B&section=footer" />
+
+</div>
+
+<!-- ====================================================== -->
+<!--                   KAREN ROCHA                          -->
+<!-- ====================================================== -->
